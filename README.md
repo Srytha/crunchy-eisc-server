@@ -1,13 +1,15 @@
-"# crunchy-eisc-server" 
+# crunchy-eisc-server
 
 Hola, instala:
-npm install express cors
 
-cd crunchy-eisc-server
+npm install express cors  
 
-Agrega ademas: 
-npm install express cors dotenv cloudinary
+cd crunchy-eisc-server  
 
-Verifica que corra: 
+Agrega además:  
+
+npm install express cors dotenv cloudinary  
+
+Verifica que corra:  
 
 node server.js
